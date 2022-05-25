@@ -1,7 +1,10 @@
 ### Hi there 👋
 # 💫About Me :
 I'm a B.Tech CSE student at Lovely Professional University
+
 I'm a tech enthusiast 
+
+Active lerner and keeps on updating myself with latest technologies in the market
 
 
 ## 🌐Socials
