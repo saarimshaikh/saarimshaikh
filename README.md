@@ -4,7 +4,7 @@
 <a href="https://github.com/saarimshaikh" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/saarimshaikh" target="_blank">
+<a href="https://linkedin.com/in/saarim-shaikh" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
@@ -35,9 +35,6 @@ I'm a B. Tech Computer Science graduate from Lovely Professional University. I w
 
 </td><td valign="top" width="50%">
 
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  
