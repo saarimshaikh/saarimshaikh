@@ -23,7 +23,7 @@ I'm a B. Tech Computer Science graduate from Lovely Professional University. I w
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on SnapGram   
+- 🔭 I’m currently working on Evently (An event management system using MERN).   
   
 
 - 🌱 I’m currently learning NextJs, DevOps, Blockchain and Ai  
