@@ -43,7 +43,7 @@ I'm a B. Tech Computer Science graduate from Lovely Professional University. I w
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp7RplSxkFaUg03ZfjUCmRboImdLVAAMUeicos6px9yQ5palGXsknJrVLgFewTlY7Du9o&usqp=CAU" align="center" style="width: 100%" />
+<img src="https://img.freepik.com/free-vector/coding-concept-illustration_114360-1155.jpg?w=740&t=st=1709552307~exp=1709552907~hmac=2b6f10ec34f7b1f36930d8f42154e3660a660ff74057cc0670e89458ab692c88" align="center" style="width: 100%" />
 </div>  
 
 
