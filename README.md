@@ -37,7 +37,7 @@ I'm a B. Tech Computer Science graduate from Lovely Professional University. I w
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I'm Batman 🦇  
+- ⚡ Fun fact: Prompt engineering is SERIOUS
 
 
 </td><td valign="top" width="50%">
