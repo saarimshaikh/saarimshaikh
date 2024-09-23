@@ -1,3 +1,6 @@
+![header](https://github.com/user-attachments/assets/82282de0-bbe0-45b7-a765-c9c157e683f4)
+
+
 ## Hey 👋, I'm Saarim Shaikh  
   
 
