@@ -30,10 +30,10 @@ I'm a B. Tech Computer Science graduate from Lovely Professional University. I w
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on Evently (An event management system using MERN)  
+- 🔭 I’m currently working on Hadoop data cluster with AWS
   
 
-- 🌱 I’m currently learning NextJs, DevOps, Blockchain, Ai and GoLang  
+- 🌱 I’m currently learning NextJs, DevOps, Blockchain, Ai and DataOps 
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
