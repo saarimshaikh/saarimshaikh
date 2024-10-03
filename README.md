@@ -108,14 +108,13 @@ I'm a B. Tech Computer Science graduate from Lovely Professional University. I w
 
 <br/>  
 
+[![An image of @saarimshaikh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/saarimshaikh)](https://holopin.io/@saarimshaikh)
+
 ![Profile views counter](https://komarev.com/ghpvc/?username=saarimshaikh&&style=flat-square)  
   
 
 <br/>  
-
-
 <br />
 
-----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 <a href="https://app.daily.dev/saarim"><img src="https://api.daily.dev/devcards/v2/1lvmoV2cEzJMBDZ20KxZF.png?type=wide&r=tr8" width="652" alt="Saarim's Dev Card"/></a>
