@@ -92,15 +92,12 @@ I'm a B. Tech Computer Science graduate from Lovely Professional University. I w
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saarimshaikh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=saarimshaikh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=saarimshaikh&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saarimshaikh&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
+###
 
 <br/>  
 
