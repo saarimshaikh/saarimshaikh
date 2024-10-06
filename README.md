@@ -47,7 +47,8 @@ I'm a B. Tech Computer Science graduate from Lovely Professional University. I w
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://img.freepik.com/free-vector/coding-concept-illustration_114360-1155.jpg?w=740&t=st=1709552307~exp=1709552907~hmac=2b6f10ec34f7b1f36930d8f42154e3660a660ff74057cc0670e89458ab692c88" align="center" style="width: 100%" />
+<img src="https://img.freepik.com/free-photo/person-playing-3d-video-games-device_23-2151005751.jpg?t=st=1728189709~exp=1728193309~hmac=d273daf29321f180a748e68bbc2107211aa4c4d141b14be624b02b150edc61e5&w=996" 
+align="center" style="width: 100%" />
 </div>  
 
 
