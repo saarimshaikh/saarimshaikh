@@ -35,7 +35,7 @@ I'm a B. Tech Computer Science graduate from Lovely Professional University. I w
 - 🔭 I’m currently working on Hadoop data cluster with AWS
   
 
-- 🌱 I’m currently learning Ai and DataOps 
+- 🌱 I’m currently learning Ai, Cloud and DataOps
   
 
 - ❓ Ask me about anything related to Big Data and System Design
