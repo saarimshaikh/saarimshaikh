@@ -35,10 +35,10 @@ I'm a B. Tech Computer Science graduate from Lovely Professional University. I w
 - 🔭 I’m currently working on Hadoop data cluster with AWS
   
 
-- 🌱 I’m currently learning NextJs, DevOps, Blockchain, Ai and DataOps 
+- 🌱 I’m currently learning Ai and DataOps 
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Big Data and System Design
   
 
 - ⚡ Fun fact: Prompt engineering is SERIOUS
