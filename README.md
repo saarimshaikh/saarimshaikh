@@ -135,3 +135,17 @@ align="center" style="width: 100%" />
 
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 <a href="https://app.daily.dev/saarim"><img src="https://api.daily.dev/devcards/v2/1lvmoV2cEzJMBDZ20KxZF.png?type=wide&r=tr8" width="652" alt="Saarim's Dev Card"/></a>
+
+
+<div align="left">
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saarimshaikh/saarimshaikh/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saarimshaikh/saarimshaikh/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/saarimshaikh/saarimshaikh/output/pacman-contribution-graph.svg">
+</picture>
+
+###
