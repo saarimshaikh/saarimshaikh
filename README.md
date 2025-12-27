@@ -38,7 +38,7 @@ I'm a B. Tech Computer Science graduate from Lovely Professional University. I w
 - 🌱 I’m currently learning Ai, Cloud and DataOps
   
 
-- ❓ Ask me about anything related to Big Data and System Design
+- ❓ Ask me about anything related to Big Data and Data Engineer System Design
   
 
 - ⚡ Fun fact: Prompt engineering is SERIOUS
